@@ -1,3 +1,5 @@
+# GCSG01
+
 # Hexo for OIers
 
 > 为 OIer 定制的 Hexo 博客模板，开箱即用。
